@@ -10,6 +10,14 @@ Tired of scoreboard watching the NHL? Well give your eyes a rest and let your ea
 
 **How it works:**
 
-Initially I attempted to use APIs to get live scores, but that did not work. Instead, I used requests BeautifulSoup4 to fetch the scores from espn.com/nhl/scoreboard. All teams scores are stored and if the newly fetched data is greater than the previous scores, that means a goal was scored and that team's goal horn is played. Pygame was used to play the goal horns.
+Initially I attempted to use APIs to get live scores, but that did not work. Instead, I used requests and BeautifulSoup4 to fetch the scores from espn.com/nhl/scoreboard. All teams scores are stored and if the newly fetched data is greater than the previous scores, that means a goal was scored and that team's goal horn is played. Pygame was used to play the goal horns.
+
+**Dependencies:**
+
+Coming soon...
+
+**Run Instructions:**
+
+Coming soon...
 
 **HAVE FUN**
