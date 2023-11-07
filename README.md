@@ -20,6 +20,8 @@ Coming soon...
 
 Coming soon...
 
-**Goal Horns courtesy of Elite Goal Horns (https://www.youtube.com/@EliteGoalHorns)**
+**2023 Goal Horns courtesy of Elite Goal Horns (https://www.youtube.com/@EliteGoalHorns)**
 
-**HAVE FUN**
+**2024 Goal Horns courtesy of Dr. Goal Horn (https://www.youtube.com/@dr.goalhorn)**
+
+**HAVE FUN!!!**
